@@ -1,4 +1,4 @@
-#include <ctype.h>
+
 string ari(string s)
 {
 float n=strlen(s);
